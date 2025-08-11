@@ -1,11 +1,12 @@
 import Skills from './Skills';
 import Projects from './Projects';
 import Education from './Education';
+import OwnProjects from './OwnProjects';
 
 function ContentPanel({ activeSection }) {
   return (
     <div className="content-panel ">
-      {activeSection === "about" && <h2>Hi, I'm Akash 👋</h2>}
+      {activeSection === "ownprojects" && <OwnProjects />}
       {activeSection === "skills" && <Skills />}
       {activeSection === "projects" && <Projects />}
       {activeSection === "education" && <Education />}
