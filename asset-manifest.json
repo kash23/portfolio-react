@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.b3304efb.css",
-    "main.js": "/portfolio-react/static/js/main.7d59efb9.js",
+    "main.js": "/portfolio-react/static/js/main.062639d3.js",
     "static/media/akash.jpg": "/portfolio-react/static/media/akash.99a82f59f10f4a88472f.jpg",
     "static/media/Akash_C_Dotnet_Fullstack_Developer.pdf": "/portfolio-react/static/media/Akash_C_Dotnet_Fullstack_Developer.50cf6cd012fedc609d0d.pdf",
     "static/media/naukri.png": "/portfolio-react/static/media/naukri.24a8dbba0b3e73548a4e.png",
     "index.html": "/portfolio-react/index.html",
     "main.b3304efb.css.map": "/portfolio-react/static/css/main.b3304efb.css.map",
-    "main.7d59efb9.js.map": "/portfolio-react/static/js/main.7d59efb9.js.map"
+    "main.062639d3.js.map": "/portfolio-react/static/js/main.062639d3.js.map"
   },
   "entrypoints": [
     "static/css/main.b3304efb.css",
-    "static/js/main.7d59efb9.js"
+    "static/js/main.062639d3.js"
   ]
 }
