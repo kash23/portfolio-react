@@ -31,7 +31,7 @@ function Sidebar() {
                  boxShadow: "0 0 10px rgba(0, 0, 0, 0.3)" }} />
             </a>
           </div>
-          
+
           <div>
             <a href={Resume} target="_blank" rel="noopener noreferrer">
               <FaFileAlt style=
